@@ -113,7 +113,7 @@ section{
 }
 .home-text h5{
 	margin-bottom: 23px;
-	font-size: 19px;
+	font-size: 30px;
 	font-weight: 500;
 }
 span{
@@ -121,11 +121,11 @@ span{
 }
 .home-text h3{
 	color: var(--main-color);
-	font-size: 20px;
+	font-size: 30px;
 	font-weight: 500;
 }
 .home-text p{
-	font-size: var(--p-font);
+	font-size: 20px;
 	color: var(--secound-color);
 	line-height: 28px;
 	margin-bottom: 20px;
@@ -152,7 +152,7 @@ span{
 	display: inline-block;
 	color: var(--bg-color);
 	background: var(--main-color);
-	font-size: var(--p-font);
+	font-size: 24px;
 	padding: 10px 40px;
 	font-weight: 500;
 	line-height: 24px;
@@ -250,8 +250,10 @@ header.sticky{
 }
 .heading h3{
 	color: var(--main-color);
-	font-size: 20px;
+	font-size: var(--h2-font);
 	font-weight: 500;
+	line-height: 1.1;
+	color: #F05454;
 }
 .heading p{
 	font-size: var(--p-font);
